@@ -1,0 +1,26 @@
+Design, develop, and publish a basic university newsletter, announcements and events Website Front using recommended design practices. The website should contain a home page and Maximum of 3 content pages. Create an external style sheet (.css file) that configures text, colour, and page layout for at least 1 page. Embedded CSS, or inline CSS, font tags, may be used should be used in at least one page.
+
+The project content pages should at least include the following:
+1. One page containing a form with at least three elements
+2. Appropriate meta tags
+3. One page utilizing tables effectively
+4. One animated image
+5. One e-mail hyperlink
+6. One external hyperlink
+7. Consistent banner logo area
+8. Consistent main navigation
+9. Association with external style sheet (.css file)
+
+
+
+Okay, I need to create a basic university newsletter website with a homepage and up to 3 content pages. The website should include a form, meta tags, tables, an animated image, email and external hyperlinks, a consistent banner/logo, consistent navigation, and an external stylesheet.
+
+Here's the plan:
+
+1. __Create a project directory:__ Create a directory to house all the website files.
+2. __Create the homepage (index.html):__ This will be the main landing page.
+3. __Create the content pages:__ Create up to 3 content pages with the required elements (form, table, animated image, hyperlinks).
+4. __Create the external stylesheet (style.css):__ This will handle the overall styling of the website.
+5. __Implement consistent banner/logo and navigation:__ Add these elements to each page for consistency.
+6. __Add meta tags:__ Add appropriate meta tags to each page.
+7. __Test the website:__ Open the `index.html` file in a browser to test the website.
